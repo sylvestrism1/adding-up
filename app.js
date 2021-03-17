@@ -49,5 +49,5 @@ rl.on('close', () => {
             + ' 変化率:' + value.change
         );
     });
-    console.log(prefectureDataMap);
+    console.log(rankingStrings);
 });
